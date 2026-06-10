@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información/","dg-note-properties":{"Tipo":"Control de lectura"}}
+{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información/","created":"2025-11-21T01:40:12.092-06:00","updated":"2026-06-05T18:25:19.540-06:00","dg-note-properties":{"Tipo":"Control de lectura"}}
 ---
 
 # Introducción 

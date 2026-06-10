@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Protocolo amplíado/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Protocolo amplíado/","created":"2025-12-09T10:56:22.349-06:00","updated":"2026-06-05T18:31:03.828-06:00","dg-note-properties":{}}
 ---
 
 

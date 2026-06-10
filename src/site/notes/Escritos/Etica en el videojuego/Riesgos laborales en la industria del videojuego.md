@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Etica en el videojuego/Riesgos laborales en la industria del videojuego/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Escritos/Etica en el videojuego/Riesgos laborales en la industria del videojuego/","created":"2026-06-06T04:28:03.968-06:00","updated":"2026-06-06T04:30:35.037-06:00","dg-note-properties":{}}
 ---
 
 Hay una escena en un episodio de la novena temporada de los Simpsons (1998) en donde Bart se mantiene reticente en podar en un jardín para, posteriormente, hacer lo mismo dentro de un simulador. En otra escena, ahora en la vida real, yo tuve un trabajo en donde los días feriados eran otorgados por el desempeño y metas cumplidas, todo cubierto con un discurso lúdico, cual si un juego se tratara. Se puede ver cómo, con estos dos ejemplos, el videojuego y el trabajo se encuentran relacionados y, con ello, las malas prácticas también.

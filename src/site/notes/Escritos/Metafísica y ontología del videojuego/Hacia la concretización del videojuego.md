@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Hacia la concretización del videojuego/","dg-note-properties":{"Tipo":"Control de lectura"}}
+{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Hacia la concretización del videojuego/","created":"2025-10-14T05:07:42.256-06:00","updated":"2026-06-05T18:24:35.402-06:00","dg-note-properties":{"Tipo":"Control de lectura"}}
 ---
 
 # Introducción 

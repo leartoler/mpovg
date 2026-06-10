@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Artículos/Videojuegos y Videoclips, una relación de recíproca influencia/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Escritos/Artículos/Videojuegos y Videoclips, una relación de recíproca influencia/","created":"2025-12-15T03:25:28.950-06:00","updated":"2026-06-05T12:43:45.630-06:00","dg-note-properties":{}}
 ---
 
 

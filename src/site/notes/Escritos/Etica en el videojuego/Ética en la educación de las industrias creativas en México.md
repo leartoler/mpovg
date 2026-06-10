@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Etica en el videojuego/Ética en la educación de las industrias creativas en México/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Escritos/Etica en el videojuego/Ética en la educación de las industrias creativas en México/","created":"2026-06-06T04:30:55.655-06:00","updated":"2026-06-06T04:48:56.004-06:00","dg-note-properties":{}}
 ---
 
 Varios son los problemas a los que se enfrenta la educación en México en torno a las industrias creativas, y más aquellas que tienen una fuerte relación con lo tecnológico. Por un lado, tenemos la falta de acceso a las mismas o la alta burocratización; sin embargo, me gustaría además nombrar dos que son pertinentes y que están relacionados con la cultura técnica en México: el concepto que se tiene de lo técnico, diferenciándolo con menor grado a otro tipo de educación y el desconocimiento mismo sobre lo técnico. 

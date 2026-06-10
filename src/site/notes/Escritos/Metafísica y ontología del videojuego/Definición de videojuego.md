@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Definición de videojuego/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Definición de videojuego/","created":"2025-11-24T22:05:10.471-06:00","updated":"2026-06-05T18:23:50.334-06:00","dg-note-properties":{}}
 ---
 
 # Introducción 

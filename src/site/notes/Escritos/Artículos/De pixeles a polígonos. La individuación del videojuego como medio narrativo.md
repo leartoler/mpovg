@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Escritos/Artículos/De pixeles a polígonos. La individuación del videojuego como medio narrativo/","created":"2026-03-01T09:23:57.292-06:00","updated":"2026-06-05T18:34:08.875-06:00","dg-note-properties":{}}
 ---
 
 

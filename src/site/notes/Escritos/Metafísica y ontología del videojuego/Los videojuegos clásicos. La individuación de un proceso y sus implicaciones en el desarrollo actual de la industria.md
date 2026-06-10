@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria/","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
+{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria/","created":"2026-06-09T19:19:50.950-06:00","updated":"2026-06-09T20:32:02.297-06:00","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
 ---
 
 # Introducción
@@ -20,7 +20,7 @@ Ejemplos como estos nos muestran la importancia que tienen los videojuegos clás
 
 Una forma de ampliar las opciones que se pueden hacer con el videojuego es conjugar su lenguaje y formas, lo lúdico, con otros medios, como el cinematográfico o la poesía. Es, en este último ejemplo, en donde desarrollaré un poco las características más visibles de los videojuegos clásicos con la poesía. 
 
-# Estudio de caso: videojuego y arte
+# Estudio de caso: videojuego y poesía
 
 En primera instancia hay que considerar que tanto el videojuego, como la poesía, son medios que permiten expresar cualquier emoción o sentimiento que tengamos y que van desde la exaltación, por ejemplo con los First Person Shooter (FPS), hasta la contemplación, como sucede con los juegos poéticos, como sería el caso del videojuego propuesto. 
 
@@ -47,5 +47,4 @@ Kent, S. L. (2001). _La gran historia del videojuego_ (D. Tejera Expósito, Trad
 Magnuson, J. (2026). _Game Poems_. Game Poems. [https://www.gamepoems.com/issue01/](https://www.gamepoems.com/issue01/)
 
 Richard. (s/f). _Haraiva_. Itch.Io. Recuperado el 9 de diciembre de 2025, de [https://haraiva.itch.io/](https://haraiva.itch.io/)
-
 Rohrer, J. (2007). _Passage_ (Versión PC) [Videojuego]. [http://passage.toolness.org/](http://passage.toolness.org/)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería/","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
+{"dg-publish":true,"permalink":"/Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería/","created":"2026-06-07T07:25:41.021-06:00","updated":"2026-06-09T14:24:59.284-06:00","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
 ---
 
 

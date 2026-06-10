@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria/","created":"2026-05-22T11:18:59.870-06:00","updated":"2026-06-05T18:34:22.224-06:00","dg-note-properties":{}}
 ---
 
 

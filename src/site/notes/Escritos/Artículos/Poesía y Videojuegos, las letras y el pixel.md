@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Artículos/Poesía y Videojuegos, las letras y el pixel/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Escritos/Artículos/Poesía y Videojuegos, las letras y el pixel/","created":"2026-01-27T21:17:55.051-06:00","updated":"2026-06-05T18:34:52.693-06:00","dg-note-properties":{}}
 ---
 
 

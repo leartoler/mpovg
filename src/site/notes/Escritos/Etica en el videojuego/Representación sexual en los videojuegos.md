@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Etica en el videojuego/Representación sexual en los videojuegos/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Escritos/Etica en el videojuego/Representación sexual en los videojuegos/","created":"2026-06-05T23:56:37.142-06:00","updated":"2026-06-05T23:58:22.049-06:00","dg-note-properties":{}}
 ---
 
 

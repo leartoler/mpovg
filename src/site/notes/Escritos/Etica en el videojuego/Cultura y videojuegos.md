@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Etica en el videojuego/Cultura y videojuegos/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Escritos/Etica en el videojuego/Cultura y videojuegos/","created":"2026-04-22T14:57:14.742-06:00","updated":"2026-06-06T04:48:34.286-06:00","dg-note-properties":{}}
 ---
 
 Recuerdo que al jugar Super Street FIghter II (1993) estaba el peleador T.Hawk, uno cuyas características físicas y culturales no eran para nada mexicanos: mosculatura y tamaño exagerado, indumentaria más apropiado a los nativos norteamericanos que a uno mexicanos, y más allá de que peleara mal, siempre quedó ahí, como una imagen que no pertenecía ahí. Despúes, al jugar por primera y única vez Tomb Raider (1996), en la primera misión que se localiza dentro de una cueva en Perú, una puerta tenía una Piedra del Sol, perteneciente a la cultura Mexica; aquella ocasión, pausé el juego y me pregunté el porqué siempre hay una mala representación cultural de México y Latinoamérica.

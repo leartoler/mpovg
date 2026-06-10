@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Etica en el videojuego/Más allá del control/","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
+{"dg-publish":true,"permalink":"/Escritos/Etica en el videojuego/Más allá del control/","created":"2026-06-07T21:38:49.736-06:00","updated":"2026-06-07T22:51:15.751-06:00","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
 ---
 
 En el 2009, la sitcom _Better of Ted_ (Glouberman y Lazarus, 2009), sacó un episodio sobre unos sensores incapaces de identificar a los aframericanos; la solución, pasando primero por contratar personas caucásicas para servir de proxis ante los sensores, fue quitar finalmente las máquinas. Un año después, como si la serie hubiera sido premonitoria, el *Kinect* del *X box* enfrentó problemas al no poder captar de forma idónea a los afroamericanos (Usman, 2010).

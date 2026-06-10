@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01. Home/Home/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01. Home/Home/","tags":["gardenEntry"],"created":"2026-06-05T12:43:18.110-06:00","updated":"2026-06-07T21:37:23.497-06:00","dg-note-properties":{}}
 ---
 
 Esta página está pensada para discutir, pensar y cuestionar la metafísica y ontología del videojuego, así como de la tecnología y lo digital. 

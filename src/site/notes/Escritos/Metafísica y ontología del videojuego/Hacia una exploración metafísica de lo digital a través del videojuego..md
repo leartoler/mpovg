@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego./","dg-note-properties":{"Autor":"Fabián"}}
+{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego./","created":"2025-04-10T14:24:01.845-06:00","updated":"2026-06-05T18:30:35.622-06:00","dg-note-properties":{"Autor":"Fabián"}}
 ---
 
 # Introducción

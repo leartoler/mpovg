@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Complejidad y Videojuegos/Notas sobre la complejidad en las ciencias sociales/","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
+{"dg-publish":true,"permalink":"/Escritos/Complejidad y Videojuegos/Notas sobre la complejidad en las ciencias sociales/","created":"2026-06-07T21:16:30.144-06:00","updated":"2026-06-07T21:34:19.294-06:00","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
 ---
 
 Dentro de los cambios de paradigma que han ocurrido dentro de las ciencias sociales, o la filosofía, pocos han tenido una repercusión en la conceptualización, como son las nociones de complejidad o aquellas basadas en las ciencias biológicas o de la computación. Y remito a la filosofía porque es precisamente desde este campo en el que la filosofía de la tecnología bebe directamente conceptos que vienen tanto de los ya mencionados como también de la cibernética y la termodinámica. 

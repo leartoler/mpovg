@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Videojuego e individuación II/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Escritos/Metafísica y ontología del videojuego/Videojuego e individuación II/","created":"2026-02-16T11:47:11.925-06:00","updated":"2026-06-05T18:32:06.279-06:00","dg-note-properties":{}}
 ---
 
 # Introducción
