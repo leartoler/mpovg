@@ -43,6 +43,7 @@ Además, se tienen también algunos artículos que analizan al videojuego desde 
 
 - [[Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería\|El desorejamiento se traduce en ordenacismo.  La relación con la vidriería]]
 - [[Escritos/Complejidad y Videojuegos/Notas sobre la complejidad en las ciencias sociales\|Notas sobre la complejidad en las ciencias sociales]]
+- [[Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos\|El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos]]
 
 { .block-language-dataview}
 
