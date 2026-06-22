@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos/","created":"2026-06-14T19:18:14.837-06:00","updated":"2026-06-14T20:46:05.139-06:00","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
+{"dg-publish":true,"permalink":"/Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos/","created":"2026-06-14T19:18:14.837-06:00","updated":"2026-06-14T20:48:08.201-06:00","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
 ---
 
 “Lo simple es lo opuesto a lo complejo”, podría ser la parte que predomina en la lectura de Morin (2005); sin embargo, por irónico que parezca, dicho pensamiento es más complejo de lo que es. Para el caso del presente trabajo se revalorizará el pensamiento sobre el paradigma de la complejidad y se vinculará dicho pensamiento en el estudio de los videojuegos, centrándose primero en los llamados *Game Studies* y, posteriormente, en la forma en cómo un cambio de perspectiva hacia una filosofía oriental nos puede ayudar a entender mejor el fenómeno del videojuego desde una perspectiva cultural. 
@@ -27,6 +27,7 @@ No obstante, actualmente, es necesario entender a los videojuegos desde otra per
 Porque para entender al videojuego no es suficiente verlo desde una perspectiva simplista, una que solo tome en cuenta la industria, o los efectos psicológicos o lo económicos, puntos de vista que pueden desencadenar en malos planteamientos políticos como sucedió cuando se quiso imponer un impuesto a lo juegos violentos (El financiero, 2025). Hace falta, por lo tanto, ver la complejidad de la que surgió y el cómo ha evolucionado; tal vez solo así, entendiendo al videojuego en su complejidad, se hubiera entendido con más facilidad que era casi imposible subir un impuesto a los videojuegos violentos, pues como comenta Morin, los conceptos no se definen por sus fronteras, sino por sus conceptos. 
 
 # Referencias
+
 
 El financiero. (2025). _Nuevo impuesto a videojuegos en México: ¿En qué consiste y cuáles tendrán el 8% extra? – El Financiero_. [https://www.elfinanciero.com.mx/entretenimiento/2025/09/09/nuevo-impuesto-a-videojuegos-en-mexico-en-que-consiste-y-cuales-tendran-el-8-extra/](https://www.elfinanciero.com.mx/entretenimiento/2025/09/09/nuevo-impuesto-a-videojuegos-en-mexico-en-que-consiste-y-cuales-tendran-el-8-extra/)
 
