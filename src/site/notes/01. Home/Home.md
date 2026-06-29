@@ -7,21 +7,21 @@ Esta página está pensada para discutir, pensar y cuestionar la metafísica y o
 Actualmente se está cuestionando lo que es el videojuego, que lo hace ser lo que es y cómo se individua, entre otras cosas. Para ver los avances sobre metafísica y ontología del videojuego, se pueden leer los siguientes borradores: 
 
 
-- [[Escritos/Metafísica y ontología del videojuego/Definición de videojuego\|Definición de videojuego]]
 - [[Escritos/Metafísica y ontología del videojuego/Hacia la concretización del videojuego\|Hacia la concretización del videojuego]]
-- [[Escritos/Metafísica y ontología del videojuego/La individuación del videojuego\|La individuación del videojuego]]
+- [[Escritos/Metafísica y ontología del videojuego/Definición de videojuego\|Definición de videojuego]]
 - [[Escritos/Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego.\|Hacia una exploración metafísica de lo digital a través del videojuego.]]
 - [[Escritos/Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información\|Introducción a la individuación a la luz de las nociones de forma e información]]
-- [[Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria\|Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria]]
+- [[Escritos/Metafísica y ontología del videojuego/La individuación del videojuego\|La individuación del videojuego]]
 - [[Escritos/Metafísica y ontología del videojuego/Protocolo amplíado\|Protocolo amplíado]]
 - [[Escritos/Metafísica y ontología del videojuego/Videojuego e individuación II\|Videojuego e individuación II]]
 - [[Escritos/Metafísica y ontología del videojuego/Videojuegos, de su concepción a su individuación\|Videojuegos, de su concepción a su individuación]]
+- [[Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria\|Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria]]
 
 { .block-language-dataview}
 ---
 Igualmente se está cuestionando el papel que tiene ética dentro del videojuego. Esto con los artículos: 
-- [[Escritos/Etica en el videojuego/Cultura y videojuegos\|Cultura y videojuegos]]
 - [[Escritos/Etica en el videojuego/El uso de sesgos en los sistemas de monetización de videojuegos\|El uso de sesgos en los sistemas de monetización de videojuegos]]
+- [[Escritos/Etica en el videojuego/Cultura y videojuegos\|Cultura y videojuegos]]
 - [[Escritos/Etica en el videojuego/Más allá del control\|Más allá del control]]
 - [[Escritos/Etica en el videojuego/Representación sexual en los videojuegos\|Representación sexual en los videojuegos]]
 - [[Escritos/Etica en el videojuego/Riesgos laborales en la industria del videojuego\|Riesgos laborales en la industria del videojuego]]
@@ -42,9 +42,10 @@ Por último, se pueden consultar algunos de los borradores de artículos realiza
 Además, se tienen también algunos artículos que analizan al videojuego desde la teoría de la complejidad. En: 
 
 - [[Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería\|El desorejamiento se traduce en ordenacismo.  La relación con la vidriería]]
-- [[Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos\|El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos]]
-- [[Escritos/Complejidad y Videojuegos/Notas sobre la complejidad en las ciencias sociales\|Notas sobre la complejidad en las ciencias sociales]]
 - [[Escritos/Complejidad y Videojuegos/El orden y el desorden. El bucle tetralógico del videojuego\|El orden y el desorden. El bucle tetralógico del videojuego]]
+- [[Escritos/Complejidad y Videojuegos/El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos\|El paradigma de la complejidad. El caso del pensamiento de Morin y los videojuegos]]
+- [[Escritos/Complejidad y Videojuegos/La unidad compleja y su comportamiento emergente como proceso de individiduación\|La unidad compleja y su comportamiento emergente como proceso de individiduación]]
+- [[Escritos/Complejidad y Videojuegos/Notas sobre la complejidad en las ciencias sociales\|Notas sobre la complejidad en las ciencias sociales]]
 
 { .block-language-dataview}
 

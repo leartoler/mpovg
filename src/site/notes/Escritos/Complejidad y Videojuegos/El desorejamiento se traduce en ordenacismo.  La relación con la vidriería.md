@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería/","created":"2026-06-07T07:25:41.021-06:00","updated":"2026-06-09T14:24:59.284-06:00","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
+{"dg-publish":true,"permalink":"/Escritos/Complejidad y Videojuegos/El desorejamiento se traduce en ordenacismo.  La relación con la vidriería/","created":"2026-06-07T07:25:41.021-06:00","updated":"2026-06-27T17:59:18.184-06:00","dg-note-properties":{"fontsize":"12pt","geometry":"margin=2.5cm","documentclass":"article","author":["Fabián Gutiérrez Gómez"],"linestretch":"1.5","indent":"true"}}
 ---
 
 
@@ -36,3 +36,6 @@ La conversión, por otro lado, es aquella que da continuidad al orden, aborda el
 
 
 [^1]: Doctor Who es una serie de ciencia ficción inglesa creado por la BBC. La trama principal gira sobre un extraterrestre que viaja por el tiempo y el espacio a través de la TARDIS. Es la serie de ciencia ficción más longeva a nivel mundial. 
+
+
+
