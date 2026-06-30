@@ -9,23 +9,23 @@ Actualmente se está cuestionando lo que es el videojuego, que lo hace ser lo qu
 
 - [[Escritos/Metafísica y ontología del videojuego/Hacia la concretización del videojuego\|Hacia la concretización del videojuego]]
 - [[Escritos/Metafísica y ontología del videojuego/Definición de videojuego\|Definición de videojuego]]
-- [[Escritos/Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego.\|Hacia una exploración metafísica de lo digital a través del videojuego.]]
 - [[Escritos/Metafísica y ontología del videojuego/Introducción a la individuación a la luz de las nociones de forma e información\|Introducción a la individuación a la luz de las nociones de forma e información]]
+- [[Escritos/Metafísica y ontología del videojuego/Hacia una exploración metafísica de lo digital a través del videojuego.\|Hacia una exploración metafísica de lo digital a través del videojuego.]]
 - [[Escritos/Metafísica y ontología del videojuego/La individuación del videojuego\|La individuación del videojuego]]
+- [[Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria\|Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria]]
 - [[Escritos/Metafísica y ontología del videojuego/Protocolo amplíado\|Protocolo amplíado]]
 - [[Escritos/Metafísica y ontología del videojuego/Videojuego e individuación II\|Videojuego e individuación II]]
 - [[Escritos/Metafísica y ontología del videojuego/Videojuegos, de su concepción a su individuación\|Videojuegos, de su concepción a su individuación]]
-- [[Escritos/Metafísica y ontología del videojuego/Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria\|Los videojuegos clásicos. La individuación de un proceso y sus implicaciones en el desarrollo actual de la industria]]
 
 { .block-language-dataview}
 ---
 Igualmente se está cuestionando el papel que tiene ética dentro del videojuego. Esto con los artículos: 
-- [[Escritos/Etica en el videojuego/El uso de sesgos en los sistemas de monetización de videojuegos\|El uso de sesgos en los sistemas de monetización de videojuegos]]
 - [[Escritos/Etica en el videojuego/Cultura y videojuegos\|Cultura y videojuegos]]
 - [[Escritos/Etica en el videojuego/Más allá del control\|Más allá del control]]
+- [[Escritos/Etica en el videojuego/El uso de sesgos en los sistemas de monetización de videojuegos\|El uso de sesgos en los sistemas de monetización de videojuegos]]
+- [[Escritos/Etica en el videojuego/Videojuegos y política\|Videojuegos y política]]
 - [[Escritos/Etica en el videojuego/Representación sexual en los videojuegos\|Representación sexual en los videojuegos]]
 - [[Escritos/Etica en el videojuego/Riesgos laborales en la industria del videojuego\|Riesgos laborales en la industria del videojuego]]
-- [[Escritos/Etica en el videojuego/Videojuegos y política\|Videojuegos y política]]
 - [[Escritos/Etica en el videojuego/Ética en la educación de las industrias creativas en México\|Ética en la educación de las industrias creativas en México]]
 
 { .block-language-dataview}
@@ -36,6 +36,7 @@ Por último, se pueden consultar algunos de los borradores de artículos realiza
 - [[Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria\|Lo político en los videojuegos. Una relación necesaria]]
 - [[Escritos/Artículos/Poesía y Videojuegos, las letras y el pixel\|Poesía y Videojuegos, las letras y el pixel]]
 - [[Escritos/Artículos/Videojuegos y Videoclips, una relación de recíproca influencia\|Videojuegos y Videoclips, una relación de recíproca influencia]]
+- [[Escritos/Artículos/Bibliografía\|Bibliografía]]
 
 { .block-language-dataview}
 ---
