@@ -39,7 +39,7 @@ Por último, se pueden consultar algunos de los borradores de artículos realiza
 - [[Escritos/Artículos/Lo político en los videojuegos. Una relación necesaria\|Lo político en los videojuegos. Una relación necesaria]]
 - [[Escritos/Artículos/Poesía y Videojuegos, las letras y el pixel\|Poesía y Videojuegos, las letras y el pixel]]
 - [[Escritos/Artículos/Videojuegos y Videoclips, una relación de recíproca influencia\|Videojuegos y Videoclips, una relación de recíproca influencia]]
-- [[Escritos/Artículos/Bibliografía e Índice\|Bibliografía e Índice]]
+- [[Escritos/Artículos/Bibliografía\|Bibliografía]]
 
 { .block-language-dataview}
 ---
